@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "default_task.h": "c",
+        "test_task.h": "c",
+        "ins_task.h": "c"
+    }
+}
